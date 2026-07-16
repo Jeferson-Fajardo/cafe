@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# Build folder (if you use one)
+dist/
+
+# Cache
+.cache/
+
+# Files of the system
+.DS_Store
+Thumbs.db
