@@ -10,3 +10,6 @@ dist/
 # Files of the system
 .DS_Store
 Thumbs.db
+
+# Files not important for the project
+notes.txt
